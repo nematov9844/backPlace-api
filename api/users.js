@@ -1,66 +1,38 @@
+
+
 const express = require('express');
 const cors = require('cors');
 const app = express();
 const port = process.env.PORT || 3000;
 
-// CORS uchun
-app.use(cors());
+app.use(cors()); 
 
-// JSON data (db.json ma'lumotlari)
-const data = {
-  getBy: [
-    {
-      sale: "1999",
-      info: "Футболка с дизайнерским принтом Super Shape 02 фиолетовая",
-      price: "2499",
-      title: "MARPLE",
-      id: 1,
-      rewiew: "4.9",
-      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/getBy/getBy_1.png"
-    },
-    // Boshqa elementlar
-  ],
-  newProduct: [
-    {
-      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/newProducts/newProduct_1.png",
-      price: 2399,
-      info: "Футболка с дизайнерским принтом Super Shape 04 формулы",
-      id: 1
-    },
-    // Boshqa elementlar
-  ],
-  recomendedProducts: [
-    {
-      img: "",
-      price: "",
-      info: "",
-      id: 1
-    },
-    {
-      img: "",
-      price: "",
-      info: "",
-      id: 2
-    }
-  ]
-};
+app.use(express.json());
 
-// `getBy` endpoint
-app.get('/getBy', (req, res) => {
-  res.json(data.getBy);
+let users = [
+    { first_name: "Jeki", last_name: "Tommy", age: 20, hobbies: "pianino" },
+    { first_name: "Aisha", last_name: "Ali", age: 25, hobbies: "yog'och o'yish" },
+    { first_name: "Omar", last_name: "Khan", age: 30, hobbies: "fotografiya" },
+    { first_name: "Mariya", last_name: "Ivanova", age: 22, hobbies: "chizmachilik" },
+    { first_name: "Samir", last_name: "Hussein", age: 28, hobbies: "velosiped minish" },
+    { first_name: "Fatima", last_name: "Ahmed", age: 27, hobbies: "taom tayyorlash" },
+    { first_name: "Daniel", last_name: "Smith", age: 32, hobbies: "badiiy adabiyot" },
+    { first_name: "Elena", last_name: "Petrova", age: 24, hobbies: "sayohat qilish" },
+    { first_name: "Ahmed", last_name: "Aliyev", age: 29, hobbies: "fitness" },
+    { first_name: "Nargiza", last_name: "Yusupova", age: 26, hobbies: "pishiriqlar tayyorlash" }
+];
+
+
+app.get('/api/users', (req, res) => {
+    res.json(users);
 });
 
-// `newProduct` endpoint
-app.get('/newProduct', (req, res) => {
-  res.json(data.newProduct);
+app.post('/api/users', (req, res) => {
+    const user = req.body;
+    users.push(user);
+    res.status(201).json(user);
 });
 
-// `recomendedProducts` endpoint
-app.get('/recomendedProducts', (req, res) => {
-  res.json(data.recomendedProducts);
-});
-
-// Serverni ishga tushirish
 app.listen(port, () => {
-  console.log(`Server http://localhost:${port} portida ishlayapti`);
+    console.log(`Server is running on port ${port}`);
 });
