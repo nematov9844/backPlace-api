@@ -192,256 +192,224 @@ let users = {
       id: 12,
     },
   ],
-  recomendedProducts: [
+  recomendedProducts:[
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_1.png",
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_1.png",
       price: "1 375 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
       id: 1,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_2.png",
-      img: "",
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_2.png",
       price: "1 375 ₽",
       info: "Футболка с дизайнерским принтом Super Shape 04 формулы",
       id: 2,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_3.png",
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_3.png",
       price: "599 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
       id: 3,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_4.png",
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_4.png",
       price: "599 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
       id: 4,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_5.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_5.png",
       price: "2 399 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
       id: 5,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_6.png",
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_6.png",
       price: "2 399 ₽",
       info: "Бейсболка с дизайнерским принтом Super Shape 02 абстракция",
       id: 6,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_7.png",
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_7.png",
       price: "2 399 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
       id: 7,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_8.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_8.png",
       price: "2 399 ₽",
       info: "Футболка с дизайнерским принтом Super Shape 06 абстракция",
       id: 8,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_9.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_9.png",
       price: "1 375 ₽",
       info: "Бейсболка с дизайнерским принтом Super Shape 01 белая",
       id: 9,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_10.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_10.png",
       price: "599 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
       id: 10,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_11.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_11.png",
       price: "599 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 05",
       id: 11,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_12.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_12.png",
       price: "2 399 ₽",
       info: "Футболка с дизайнерским принтом Super Shape 06 абстракция",
       id: 12,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_13.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_13.png",
       price: "1 375 ₽",
       info: "Бейсболка с дизайнерским принтом Super Shape 02 абстракция",
       id: 13,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_14.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_14.png",
       price: "599 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 04",
       id: 14,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_15.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_15.png",
       price: "599 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 02",
       id: 15,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_16.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_16.png",
       price: "3 179 ₽",
-
       info: "Футболка с дизайнерским принтом Super Shape 02 фиолетовая",
       id: 16,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_17.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_17.png",
       price: "599 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 06",
       id: 17,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_18.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_18.png",
       price: "2 399 ₽",
       info: "Футболка с дизайнерским принтом Super Shape 06 абстракция",
       id: 18,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_19.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_19.png",
       price: "2 399 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
       id: 19,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_20.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_20.png",
       price: "2 399 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
       id: 20,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_21.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_21.png",
       price: "2 399 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 05",
       id: 21,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_22.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_22.png",
       price: "1 375 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
       id: 22,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_23.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_23.png",
       price: "1 999 ₽",
       info: "Футболка с дизайнерским принтом Super Shape 04 формулы",
       id: 23,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_24.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_24.png",
       price: "2 399 ₽",
       info: "Футболка с дизайнерским принтом Super Shape 04 формулы",
       id: 24,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_25.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_25.png",
       price: "1 375 ₽",
       info: "Бейсболка с дизайнерским принтом Super Shape 02 абстракция",
       id: 25,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_26.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_26.png",
       price: "599 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 04",
       id: 26,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_27.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_27.png",
       price: "599 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 02",
       id: 27,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_28.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_28.png",
       price: "3 179 ₽",
       info: "Футболка с дизайнерским принтом Super Shape 02 фиолетовая",
       id: 28,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_29.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_29.png",
       price: "599 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 06",
       id: 29,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_30.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_30.png",
       price: "2 399 ₽",
       info: "Футболка с дизайнерским принтом Super Shape 06 абстракция",
       id: 30,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_31.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_31.png",
       price: "2 399 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
       id: 31,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_32.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_32.png",
       price: "3 179 ₽",
       info: "Футболка с дизайнерским принтом Super Shape 04 формулы",
       id: 32,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_33.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_33.png",
       price: "2 399 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 05",
       id: 33,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_34.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_34.png",
       price: "1 375 ₽",
       info: "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
       id: 34,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_35.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_35.png",
       price: "1 999 ₽",
       info: "Футболка с дизайнерским принтом Super Shape 04 формулы",
       id: 35,
     },
     {
-      img: "https://github.com/nematov9844/market_imgs/blob/main/recommendedProducts/recommendedProduct_36.png",
-
+      img: "https://raw.githubusercontent.com/nematov9844/market_imgs/main/recommendedProducts/recommendedProduct_36.png",
       price: "2 399 ₽",
       info: "Футболка с дизайнерским принтом Super Shape 04 формулы",
       id: 36,
     },
-  ],
+  ]
 };
 
 app.get("/api/users", (req, res) => {
