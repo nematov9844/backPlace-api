@@ -192,8 +192,7 @@ let users ={
           "price": 2399,
           "info": "Футболка с дизайнерским принтом Super Shape 04 формулы",
           "id":12
-        },
-      {}
+        }
     ],
     "recomendedProducts":[
       {
